@@ -3,5 +3,9 @@
 ![image](https://github.com/kesharibhai84/Text-Summarizer/assets/136710684/62f7e7d5-71f5-456e-9541-1f9ec3628203)
 
 
-Uploading AI Text Summarizer App - Google Chrome 2024-06-21 16-52-31.mp4…
+
+
+https://github.com/kesharibhai84/Text-Summarizer/assets/136710684/f282a895-dd06-4a5c-88aa-f203710b3611
+
+
 
