@@ -60,17 +60,21 @@ textarea {
   cursor: pointer;
   margin-bottom: 10px;
   transition: background-color 0.3s ease;
+  
 }
 
 .submit-button:hover {
   background-color: #d94d1a;
+  transform: translateY(-3px);
 }
 .submit-button.clicked {
-  background-color: green; /* Change the background color to green */
+  background-color: #030303; /* Change the background color to green */
 }
 
 .submit-button.clicked:hover {
-  background-color: darkgreen; /* Change the hover color if desired */
+  background-color: #0ced0c;
+  box-shadow: 0 4px 8px rgb(255, 255, 255, 0.2);
+  /* Change the hover color if desired */
 }
 
 
